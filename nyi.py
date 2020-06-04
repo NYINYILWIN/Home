@@ -1,2 +1,7 @@
 
-print("Welcome from NYI NYI LWIN !!!")
+def main(msg):
+    print(msg)
+
+main("Welcome to NYi NYi Lwin")
+
+
